@@ -6,4 +6,4 @@
 
 :grinning: I’m looking to collaborate on with you
 
-:phone:You can reach me carine.biosca-florand@epitech.eu
+:phone: You can reach me carine.biosca-florand@epitech.eu
